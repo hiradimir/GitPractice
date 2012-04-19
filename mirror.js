@@ -11,3 +11,7 @@ function(){
 function(){
 	alert("new function at myWork");
 }
+
+function(){
+	alert("add on master");
+}
