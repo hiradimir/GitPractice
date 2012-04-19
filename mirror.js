@@ -1,6 +1,6 @@
 function(){
 	alert("test");
-	alert("modify on mirrorBranch")
+	alert("modify on mirrorBranch");
 }
 
 function mirrorBranch(){
