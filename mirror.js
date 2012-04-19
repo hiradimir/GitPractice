@@ -1,6 +1,6 @@
 function(){
 	alert("test");
-	alert("modify on mirrorBranch")
+	alert("modify on mirrorBranch");
 }
 
 function(){
@@ -14,4 +14,9 @@ function(){
 
 function(){
 	alert("add on master2");
+	alert("modify on mirrorBranch");
+}
+
+function mirrorBranch(){
+	alert("add mirrorBranch functon");
 }
