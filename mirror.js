@@ -13,5 +13,5 @@ function(){
 }
 
 function(){
-	alert("add on master");
+	alert("add on master2");
 }
